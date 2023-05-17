@@ -1,27 +1,3 @@
-// var xhr = new XMLHttpRequest();
-// var url = "https://restcountries.com/v3/name/india";
-
-// xhr.onreadystatechange = function() {
-//   if (xhr.readyState === XMLHttpRequest.DONE) {
-//     if (xhr.status === 200) {
-//       var response = JSON.parse(xhr.responseText);
-//       var country = response[0];
-
-//       console.log("Country name: " + country.name.common);
-//       console.log("Currency: Indian Rupee (" + country.currencies.INR.name + ")");
-//       console.log("Capital: " + country.capital);
-//       console.log("Region: " + country.region);
-//       console.log("Language: " + Object.values(country.languages).join(", "));
-//       console.log("Population: " + country.population);
-//       console.log("Country Flag image url: " + country.flags.png);
-//     } else {
-//       console.log("Error: " + xhr.status);
-//     }
-//   }
-// };
-
-// xhr.open("GET", url);
-// xhr.send();
 
 // Create a new XMLHttpRequest object
 var xhr = new XMLHttpRequest();

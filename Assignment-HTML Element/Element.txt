@@ -1,0 +1,30 @@
+<html>: Defines the root element of an HTML page.
+<head>: Contains metadata and other non-visible elements within an HTML document.
+<title>: Specifies the title of the HTML document displayed in the browser's title bar or tab.
+<body>: Represents the content of an HTML document visible to the user.
+<h1> to <h6>: Heading tags used to define different levels of section headings.
+<p>: Defines a paragraph of text.
+<a>: Creates a hyperlink to another webpage, file, or location.
+<img>: Inserts an image into an HTML document.
+<ul>: Defines an unordered list.
+<ol>: Defines an ordered list.
+<li>: Represents a list item within an unordered or ordered list.
+<div>: Defines a division or section in an HTML document.
+<span>: Inline element used to group and style text or elements.
+<form>: Creates an interactive form for user input.
+<input>: Creates an input field within a form.
+<button>: Represents a clickable button.
+<table>: Defines a table for organizing data.
+<tr>: Defines a row within an HTML table.
+<td>: Represents a data cell within an HTML table.
+<th>: Represents a header cell within an HTML table.
+<header>: Defines a header section of a document or a specific section within a document.
+<footer>: Defines a footer section of a document or a specific section within a document.
+<nav>: Represents a section containing navigation links.
+<section>: Defines a section within a document.
+<aside>: Represents content that is tangentially related to the main content.
+<blockquote>: Indicates a block of quoted content.
+<cite>: Defines a reference to a creative work.
+<iframe>: Embeds another HTML document within the current document.
+<audio>: Embeds audio content in an HTML document.
+<video>: Embeds video content in an HTML document.
